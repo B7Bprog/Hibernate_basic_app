@@ -8,7 +8,7 @@ public class Main {
 
         Client client = new Client();
         client.setId(1);
-        client.setName("Bob");
+        client.setName("James");
 
         Bank bank =  new Bank();
         bank.setName("TSB");
